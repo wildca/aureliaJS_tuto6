@@ -96,3 +96,4 @@ Cross-browser testing provided by:
 
 <a href="http://browserstack.com"><img height="70" src="docs/images/browserstack-logo.png" alt="BrowserStack"></a>
 test
+test
