@@ -24,6 +24,7 @@ This is the Aurelia 2 monorepo, containing core and plugin packages, examples, b
 
 ## Introduction
 
+##
 Aurelia is a modern, front-end JavaScript framework for building browser, mobile, and desktop applications. It focuses on aligning closely with web platform specifications, using convention over configuration, and having minimal framework intrusion. Basically, we want you to just write your code without the framework getting in your way. :wink:
 
 Aurelia applications are built by composing a series of simple components. By convention, components are made up of a vanilla JavaScript or Typescript class, with a corresponding HTML template.
